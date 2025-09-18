@@ -1,6 +1,8 @@
 # AI Journey – Roadmap
 
-This is my public portfolio for my two-year education in AI & Machine Learning at IT-Högskolan in Gothenburg.
+This is my public portfolio for my two-year education in AI & Machine Learning at IT-Högskolan in Gothenburg. 
+
+This wil show my vision and process on my path to a new career, from education to IT.
 
 Content:
 - Overall roadmap for the education
@@ -28,9 +30,10 @@ Total: 400p (2 years)
 ## Master plan
 - [ ] Build a GitHub portfolio (6–8 projects, one per main course area)
 - [ ] Document each course module with READMEs and checklists
-- [ ] Publish short reflections on LinkedIn (goal: 1–2 per month)
-- [ ] Choose internships (LIA 1 & LIA 2) strategically
-- [ ] Final thesis: prototype for the "NPF companion" (AI support tool for children/teens with neurodivergence)
+- [ ] Share my journey and reflections on LinkedIn to develop consistency and communication skills. 
+      (personal goal: 1–2 reflections per week during the education)
+- [ ] Choose internships (LIA 1 & LIA 2) where I can grow.
+- [ ] Final goal: prototype for the "NPF companion" (AI support tool for children/teens with neurodivergence)
 
 ## Repo structure
 - ROADMAP.md → master plan
