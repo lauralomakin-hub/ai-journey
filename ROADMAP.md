@@ -4,9 +4,9 @@ This is my public portfolio for my two-year education in AI & Machine Learning a
 
 Content:
 - Overall roadmap for the education
-- Course-specific checklists (`checklists/`)
-- Weekly plans (`weekly.md`)
-- Finished projects (`projects/`)
+- Course-specific checklists (checklists/)
+- Weekly plans (weekly.md)
+- Finished projects (projects/)
 
 ## Education structure (400 YH credits)
 
@@ -33,7 +33,7 @@ Total: 400p (2 years)
 - [ ] Final thesis: prototype for the "NPF companion" (AI support tool for children/teens with neurodivergence)
 
 ## Repo structure
-- `ROADMAP.md` → master plan
-- `weekly.md` → weekly planning
-- `checklists/` → course-specific checklists
-- `projects/` → finished projects
+- ROADMAP.md → master plan
+- weekly.md → weekly planning
+- checklists/ → course-specific checklists
+- projects/ → finished projects
